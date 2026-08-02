@@ -1,0 +1,22 @@
+# Virtual environment
+.venv/
+
+# Environment
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Editors
+.vscode/
+.idea/
+
+# macOS/Linux
+.DS_Store
+
+# Logs
+*.log
